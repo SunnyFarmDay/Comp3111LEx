@@ -6,5 +6,6 @@ public static void main(String[] args) {
         System.out.println("Program started ...");
         System.out.println(b+" to power "+n+" is "+myLibrary.Power(b,n));
         System.out.println(n+"! = "+myLibrary.factorial(n));
+        System.out.println("Program ..Ended ...");
     }
 }
